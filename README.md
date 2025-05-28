@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvf
  
 # Neso Academy: 
 https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwK
- OIev [Pumping Lemma not recommended] 
+ OIev [Pumping Lemma not recommended]
  
 # Anisul Islam: (Bangla Tutorial)  
 https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnj
- oyd0
+ oyd0 
